@@ -4,7 +4,7 @@ public class Hindi implements Greet {
 
 	@Override
 	public void greet() {
-		// TODO Auto-generated method stub
+		System.out.println("***Namaste****");
 
 	}
 
